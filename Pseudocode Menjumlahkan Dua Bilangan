@@ -1,0 +1,13 @@
+Pseudocode Menjumlahkan Dua Bilangan :
+
+  begin
+  
+    var a sebagai integer 
+    var b sebagai integer
+    var jumlah sebagai integer  	
+    input a 
+    input b
+    jumlah := a + b
+    cetak jumlah
+  
+  end
